@@ -4,7 +4,6 @@
 > * https://www.linkedin.com/in/ahmetustaa/
 
 
-
 ## My Motto
 
 > New York is three hours ahead of California, but that doesn't make California slow.
