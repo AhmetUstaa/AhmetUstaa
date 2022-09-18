@@ -1,26 +1,4 @@
-<!DOCTYPE html>
-
-<HTML>
-
-# aboutMe
-
-> For the more information about me you can check also my LinkedIn profile. 
-> * https://www.linkedin.com/in/ahmetustaa/ 
+<p># aboutMe<br><br>&gt; For the more information about me you can check also my LinkedIn profile.<br>&gt; * <a data-fr-linked="true" href="https://www.linkedin.com/in/ahmetustaa/">https://www.linkedin.com/in/ahmetustaa/</a><br><br><br><br>## My Motto<br><br>&gt; New York is three hours ahead of California, but that doesn&apos;t make California slow.<br><br>&gt; Some graduate at the age of 22 but wait five years to find a solid job. Some become CEOs at 25 and die at 50, while others become CEOs at 50 and live to 90.<br><br>&gt; Some get married and some remain single. Obama retired at 55. Trump took office at 70.<br><br>&gt; Everyone in the whole world lives in **his own time**.<br><br>&gt; Some people around you may seem one step ahead of you, others may seem behind you. But everyone is in their own race, in their own time. Don&apos;t envy them or imitate them. They will live in their time and you will live in yours. **Life is waiting for the right time to act.**<br><br>&gt; **So calm down. You&apos;re not late. It&apos;s not early. You&apos;re right on time.**</p>
+<div class="ddict_btn" style="top: -42px; left: 78.8833px;"><img src="moz-extension://7ae23731-5a30-44e8-ac51-9e1f06b791e3/logo/48.png" style="margin: 0 auto 0 0; display: block; "></div>
 
 
-
-## My Motto
-
-> New York is three hours ahead of California, but that doesn't make California slow.
-
-> Some graduate at the age of 22 but wait five years to find a solid job. Some become CEOs at 25 and die at 50, while others become CEOs at 50 and live to 90.
-
-> Some get married and some remain single. Obama retired at 55. Trump took office at 70.
-
-> Everyone in the whole world lives in **his own time**.
-
-> Some people around you may seem one step ahead of you, others may seem behind you. But everyone is in their own race, in their own time. Don't envy them or imitate them. They will live in their time and you will live in yours. **Life is waiting for the right time to act.**
-
-> **So calm down. You're not late. It's not early. You're right on time.**
-
-</HTML>
