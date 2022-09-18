@@ -1,4 +1,4 @@
-<!--
+<!DOCTYPE html>
 
 # aboutMe
 
@@ -20,3 +20,5 @@
 > Some people around you may seem one step ahead of you, others may seem behind you. But everyone is in their own race, in their own time. Don't envy them or imitate them. They will live in their time and you will live in yours. **Life is waiting for the right time to act.**
 
 > **So calm down. You're not late. It's not early. You're right on time.**
+
+</HTML>
