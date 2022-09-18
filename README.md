@@ -8,7 +8,7 @@
 
 > New York is three hours ahead of California, but that doesn't make California slow.
 
-> Some graduate at the age of 22 but wait five years to find a solid job. Some become CEOs at 25 and die at 50, while others become CEOs at 50 and live to 90.
+> Some graduate at the age of 25 but wait five years to find a solid job. Some become CEOs at 25 and die at 50, while others become CEOs at 50 and live to 90.
 
 > Some get married and some remain single. Obama retired at 55. Trump took office at 70.
 
