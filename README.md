@@ -6,6 +6,8 @@
 >   *  Stability
 >   *  Documented information
 
+> I am interested in **software**, **cyber security**, **systems** and **networking**, and I am working on these topics.
+
 > For the more information about me you can check also my LinkedIn profile, please.
 > * [Click for my LinkedIn Profile](https://www.linkedin.com/in/ahmetustaa/)
 
