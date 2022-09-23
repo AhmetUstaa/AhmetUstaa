@@ -1,6 +1,6 @@
 # aboutMe
 
-> For the more information about me you can check also my LinkedIn profile.
+> For the more information about me you can check also my LinkedIn profile, please.
 > * [Click for my LinkedIn Profile](https://www.linkedin.com/in/ahmetustaa/)
 
 
