@@ -8,7 +8,7 @@
 
 > I am interested in **software**, **cyber security**, **systems** and **networking**, and I am working on these topics.
 
-> My hobbies are 3D Printers and ceramic printing technology.
+> My hobbies are 3D Printer and ceramic printing technology. Design and production.
 
 > For the more information about me you can check also my LinkedIn profile, please.
 > * [Click for my LinkedIn Profile](https://www.linkedin.com/in/ahmetustaa/)
