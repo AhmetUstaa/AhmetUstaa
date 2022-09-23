@@ -6,6 +6,8 @@
 >   *  Stability
 >   *  Documented information
 
+> I'm learning sustainable software.
+
 > I am interested in **software**, **cyber security**, **systems** and **networking**, and I am working on these topics.
 
 > My hobbies are 3D Printer and ceramic printing technology. Design and production.
