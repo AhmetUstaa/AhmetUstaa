@@ -1,7 +1,7 @@
 # aboutMe
 
 > For the more information about me you can check also my LinkedIn profile.
-> * https://www.linkedin.com/in/ahmetustaa/
+> * [Click for my LinkedIn Profile](https://www.linkedin.com/in/ahmetustaa/)
 
 
 ## My Motto
