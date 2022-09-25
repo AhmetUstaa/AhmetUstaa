@@ -12,8 +12,8 @@
 
 > My hobbies are 3D Printer and ceramic printing technology. Design and production.
 
-> For the more information about me you can check also my LinkedIn profile, please.
-> * [Click for my LinkedIn Profile](https://www.linkedin.com/in/ahmetustaa/)
+> For the more information about me you can check also my LinkedIn profile, please. 
+> * [Click for my LinkedIn Profile](https://www.linkedin.com/in/ahmetustaa/) :point_left:
 
 
 ## My Motto
