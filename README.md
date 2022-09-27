@@ -8,7 +8,7 @@
 
 > I'm learning sustainable software.
 
-> I am interested in **software**, **ethical hacking and pentesting about cyber security**, **kind of computer operational systems like Windows and Linux** and **IP-Based networking**, and I am working on these topics.
+> I am interested in **software developing**, **ethical hacking and pentesting about cyber security**, **kind of computer operational systems like Windows and Linux** and **IP-Based networking**, and I am working on these topics.
 
 > My hobbies are 3D Printer and ceramic printing technology. Design and production.
 
